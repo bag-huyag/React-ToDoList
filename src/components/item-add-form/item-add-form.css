@@ -1,0 +1,13 @@
+.item-add-form
+{
+    margin-top: 10px;
+
+}
+.item-add-form input
+{
+    margin-right: 3px;
+    padding: 0 1rem;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    flex-grow: 1;
+}
