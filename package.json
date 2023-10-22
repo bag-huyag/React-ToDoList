@@ -1,7 +1,6 @@
 {
   "engines": {
     "node": "19.1.0"
-	"npm": ">=6.0.0"
   },
   "name": "todo",
   "version": "0.1.0",
